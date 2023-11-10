@@ -38,7 +38,7 @@ int main (){
         return -1;
     }
 
-    char *student_id = "516520" ;
+    char *student_id = "311605015" ;
     int reversedNumber=0;
     int number = atoi(student_id);
     while (number > 0) {
